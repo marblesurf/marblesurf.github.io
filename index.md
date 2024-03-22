@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Banner](assets/pic.jpg)
+![Banner](assets/pic.png)
 
 
 **[Biscuit](http://sblisesivdin.github.io/biscuit)** is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find. 
