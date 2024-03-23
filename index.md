@@ -25,7 +25,7 @@ Hey, I am Semyon Yurkov, a cybersecurity researcher based in Luxembourg. My grea
 2012: Karpov, A., Yurkov. S., *[Generalized bankruptcy problem](https://ssrn.com/abstract=2181372)* in NRU HSE Series: Financial Economics journal, 2012
 
 
-### Teaching (at the University of Luxembourg)
+### Teaching (University of Luxembourg)
 Undergraduate classes
 - 2020: Programming Fundamentals II (Swift) - *Lab Sessions*
 - 2021-2022: Programming II (C and Swift) - *Lab Sessions*
