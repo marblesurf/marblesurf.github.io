@@ -4,7 +4,7 @@ layout: default
 ¯\\\_(ツ)\_/¯
 ![Banner](assets/pic.png)
 
-Hey, I am Semyon Yurkov, a cybersecurity researcher based in Luxembourg with a great interest in traditional card-based payments (EMV). 
+Hey, I am Semyon Yurkov, a cybersecurity researcher based in Luxembourg with a great interest in traditional card-based payments (EMV). This is me and my wife Daria in the Brenta Dolomites, Italy. Below you can find information about me and my work. 
 
 ### Research
 
