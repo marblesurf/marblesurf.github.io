@@ -1,13 +1,18 @@
 ---
 layout: default
 ---
-
+[¯\\\_(ツ)\_/¯](https://youtu.be/vWlRoC807nY)
 ![Banner](assets/pic.png)
 
-### Publications
+Hey, I am Semyon Yurkov, a cybersecurity researcher based in Luxembourg with a great interest in traditional card-based payments (EMV). 
+
+### Research
 
 2023: Bursuc, S., Horne, R., Mauw, S., Yurkov S., *[Provably unlinkable smart cards-based payments](https://dl.acm.org/doi/10.1145/3576915.3623109)* in the proceedings of the ACM conference on Computer and Communications Security (CCS) - Copenhagen, Denmark \
 [[slides](assets/ccs2023.pdf)] [[extended version](https://arxiv.org/abs/2309.03128)]
+
+2023: Yurkov, S., Doctoral thesis: *[Analysis of smartcard-based payment protocols in the applied pi-calculus using quasi-open bisimilarity](https://hdl.handle.net/10993/55510)* 
+[[slides](assets/def2023.pdf)]
 
 2023: Horne, R., Mauw, S., Yurkov S., *[Whenever a privacy property fails, a formula describes an attack: a complete and compositional verification method for the applied pi-calculus](https://www.sciencedirect.com/science/article/pii/S030439752300155X)* in Theoretical Computer Science (TCS) journal
 
@@ -19,6 +24,22 @@ layout: default
 
 2012: Karpov, A., Yurkov. S., *[Generalized bankruptcy problem](https://ssrn.com/abstract=2181372)* in NRU HSE Series: Financial Economics journal, 2012
 
+
+### Teaching (at the University of Luxembourg)
+undergraduate 
+- 2020: Programming Fundamentals II (Swift) - lab sessions
+- 2021-2022: Programming II (C and Swift) - lab sessions
+- 2021: Security II - lecturer
+
+graduate
+- 2019-2022: Security Protocols – teaching assistant
+- 2023: Security Protocols - main lecturer
+
+### Service
+I was a subreviewer for ICTAC2020, SECRYPT2021, WPES2022, IEEE DSC2022, ESORICS2022, CODASPY2024, ARES2024.
+
+### Contacts
+[CV](assets/cv.pdf)
 
 
 <!--- 
