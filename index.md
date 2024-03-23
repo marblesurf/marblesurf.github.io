@@ -4,7 +4,7 @@ layout: default
 ¯\\\_(ツ)\_/¯
 ![Banner](assets/pic.png)
 
-Hey, I am Semyon Yurkov, a cybersecurity researcher based in Luxembourg with a great interest in traditional card-based payments (EMV). This is me and my wife Daria in the Brenta Dolomites, Italy. Below you can find information about me and my work. 
+Hey, I am Semyon Yurkov, a cybersecurity researcher based in Luxembourg. My great interest is traditional card-based payments (EMV). This is me and my wife Daria in the Brenta Dolomites, Italy. Below you can find information about me and my work. 
 
 ### Research
 
@@ -26,17 +26,17 @@ Hey, I am Semyon Yurkov, a cybersecurity researcher based in Luxembourg with a g
 
 
 ### Teaching (at the University of Luxembourg)
-undergraduate 
-- 2020: Programming Fundamentals II (Swift) - lab sessions
-- 2021-2022: Programming II (C and Swift) - lab sessions
-- 2021: Security II - lecturer
+Undergraduate classes
+- 2020: Programming Fundamentals II (Swift) - *Lab Sessions*
+- 2021-2022: Programming II (C and Swift) - *Lab Sessions*
+- 2021: Security II - *Lecturer*
 
-graduate
-- 2019-2022: Security Protocols – teaching assistant
-- 2023: Security Protocols - main lecturer
+Graduate classes
+- 2019-2022: Security Protocols – *Teaching Assistant*
+- 2023: Security Protocols - *Main Lecturer*
 
 ### Service
-I was a subreviewer for ICTAC2020, SECRYPT2021, WPES2022, IEEE DSC2022, ESORICS2022, CODASPY2024, ARES2024.
+I reviewed papers for ICTAC2020, SECRYPT2021, WPES2022, IEEE DSC2022, ESORICS2022, CODASPY2024, ARES2024.
 
 ### Contacts
 [CV](assets/cv.pdf)
