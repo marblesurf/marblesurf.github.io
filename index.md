@@ -4,6 +4,24 @@ layout: default
 
 ![Banner](assets/pic.png)
 
+### Publications
+
+2023: Bursuc, S., Horne, R., Mauw, S., Yurkov S., *[Provably unlinkable smart cards-based payments](https://dl.acm.org/doi/10.1145/3576915.3623109)* in the proceedings of the ACM conference on Computer and Communications Security (CCS) - Copenhagen, Denmark \
+[[slides](assets/ccs2023.pdf)] [[extended version](https://arxiv.org/abs/2309.03128)]
+
+2023: Horne, R., Mauw, S., Yurkov S., *[Whenever a privacy property fails, a formula describes an attack: a complete and compositional verification method for the applied pi-calculus](https://www.sciencedirect.com/science/article/pii/S030439752300155X)* in Theoretical Computer Science (TCS) journal
+
+2022: Horne, R., Mauw, S., Yurkov S., *[Unlinkability of an improved key agreement protocol for EMV 2nd Gen payments](https://ieeexplore.ieee.org/document/9919666)* in the proceedings of the Computer Security Foundations Symposium (CSF) conference – Haifa, Israel \
+[[slides](assets/csf2022.pdf)]
+
+2021: Horne, R., Mauw, S., Yurkov S., *[Compositional analysis of protocol equivalence in the applied pi-calculus using quasi-open bisimilarity](https://link.springer.com/chapter/10.1007/978-3-030-85315-0_14)* in the proceedings of International Colloquium on Theoretical Aspects of Computing (ICTAC) conference - Nur-Sultan, Kazakhstan / virtual \
+[[slides](assets/ictac2021.pdf)] [[talk](https://satoss.uni.lu/members/semen/img/ictac2021.mp4)]
+
+2012: Karpov, A., Yurkov. S., *[Generalized bankruptcy problem](https://ssrn.com/abstract=2181372)* in NRU HSE Series: Financial Economics journal, 2012
+
+
+
+<!--- 
 
 **[Biscuit](http://sblisesivdin.github.io/biscuit)** is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find. 
 
@@ -44,3 +62,5 @@ print ("Biscuit")
 Biscuit is derived from currently deprecated theme [Solo](http://github.com/chibicode/solo). The development of Biscuit is maintained by [Sefer Bora Lisesivdin](https://lrgresearch.org/bora).
 
 Biscuit and the previous code where Biscuit is derived are distributed with [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
+
+--->
