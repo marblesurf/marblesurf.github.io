@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[¯\\\_(ツ)\_/¯](https://youtu.be/vWlRoC807nY)
+¯\\\_(ツ)\_/¯
 ![Banner](assets/pic.png)
 
 Hey, I am Semyon Yurkov, a cybersecurity researcher based in Luxembourg with a great interest in traditional card-based payments (EMV). 
