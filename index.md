@@ -14,7 +14,8 @@ Hey, I am Semyon Yurkov, a cybersecurity researcher based in Luxembourg. My grea
 2023: Yurkov, S., Doctoral thesis: *[Analysis of smartcard-based payment protocols in the applied pi-calculus using quasi-open bisimilarity](https://hdl.handle.net/10993/55510)* \
 [[slides](assets/def2023.pdf)]
 
-2023: Horne, R., Mauw, S., Yurkov S., *[Whenever a privacy property fails, a formula describes an attack: a complete and compositional verification method for the applied pi-calculus](https://www.sciencedirect.com/science/article/pii/S030439752300155X)* in Theoretical Computer Science (TCS) journal
+2023: Horne, R., Mauw, S., Yurkov S., *[Whenever a privacy property fails, a formula describes an attack: a complete and compositional verification method for the applied pi-calculus](https://www.sciencedirect.com/science/article/pii/S030439752300155X)* in Theoretical Computer Science (TCS) journal \
+[[slides](assets/step2023.pdf)]
 
 2022: Horne, R., Mauw, S., Yurkov S., *[Unlinkability of an improved key agreement protocol for EMV 2nd Gen payments](https://ieeexplore.ieee.org/document/9919666)* in the proceedings of the Computer Security Foundations Symposium (CSF) conference – Haifa, Israel \
 [[slides](assets/csf2022.pdf)]
@@ -22,7 +23,8 @@ Hey, I am Semyon Yurkov, a cybersecurity researcher based in Luxembourg. My grea
 2021: Horne, R., Mauw, S., Yurkov S., *[Compositional analysis of protocol equivalence in the applied pi-calculus using quasi-open bisimilarity](https://link.springer.com/chapter/10.1007/978-3-030-85315-0_14)* in the proceedings of International Colloquium on Theoretical Aspects of Computing (ICTAC) conference - Nur-Sultan, Kazakhstan / virtual \
 [[slides](assets/ictac2021.pdf)] [[talk](https://satoss.uni.lu/members/semen/img/ictac2021.mp4)]
 
-2012: Karpov, A., Yurkov. S., *[Generalized bankruptcy problem](https://ssrn.com/abstract=2181372)* in NRU HSE Series: Financial Economics journal, 2012
+2012: Karpov, A., Yurkov. S., *[Generalized bankruptcy problem](https://ssrn.com/abstract=2181372)* in NRU HSE Series: Financial Economics journal, 2012 \
+[[slides](assets/gbp2012.pdf) (in rus)] 
 
 
 ### Teaching (University of Luxembourg)
