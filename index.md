@@ -41,7 +41,7 @@ Graduate classes
 I reviewed papers for ICTAC2020, SECRYPT2021, WPES2022, IEEE DSC2022, ESORICS2022, CODASPY2024, ARES2024.
 
 ### Contacts
-[CV](assets/cv.pdf)
+[CV](assets/cv2024yurkov.pdf)
 
 
 <!--- 
