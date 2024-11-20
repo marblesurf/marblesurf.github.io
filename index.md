@@ -28,14 +28,14 @@ Hey, I am Semyon Yurkov, a cybersecurity researcher based in Luxembourg. My grea
 
 
 ### Teaching (University of Luxembourg)
-Undergraduate classes
-- 2020: Programming Fundamentals II (Swift) – *Lab Sessions*
-- 2021-2022: Programming II (C and Swift) – *Lab Sessions*
-- 2021: Security II – *Lecturer*
-
 Graduate classes
-- 2019-2022: Security Protocols – *Teaching Assistant*
 - 2023: Security Protocols – *Main Lecturer*
+- 2019-2022: Security Protocols – *Teaching Assistant*
+
+Undergraduate classes
+- 2021: Security II – *Lecturer*
+- 2021-2022: Programming II (C and Swift) – *Lab Sessions*
+- 2020: Programming Fundamentals II (Swift) – *Lab Sessions*
 
 ### Service
 I reviewed papers for ICTAC2020, SECRYPT2021, WPES2022, IEEE DSC2022, ESORICS2022, CODASPY2024, ARES2024.
