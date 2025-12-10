@@ -8,6 +8,8 @@ Hey, I am Semyon Yurkov, a cybersecurity researcher based in Luxembourg. My grea
 
 ### Research
 
+2025: Gil-Pons R., Horne R., Mauw S., Stutz F., Yurkov S., *[Security Protocols and Threat Models: Security and Privacy via The Applied π-Calculus](https://link.springer.com/book/9783032082480)* textbook in Springer Information Security and Cryptography series – Springer Cham
+
 2023: Bursuc, S., Horne, R., Mauw, S., Yurkov S., *[Provably unlinkable smart cards-based payments](https://dl.acm.org/doi/10.1145/3576915.3623109)* in the proceedings of the ACM conference on Computer and Communications Security (CCS) – Copenhagen, Denmark \
 [[slides](assets/ccs2023.pdf)] [[extended version](https://arxiv.org/abs/2309.03128)]
 
