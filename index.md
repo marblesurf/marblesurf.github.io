@@ -40,7 +40,7 @@ Undergraduate classes
 - 2020: Programming Fundamentals II (Swift) – *Lab Sessions*
 
 ### Service
-I reviewed papers for ICTAC2020, SECRYPT2021, WPES2022, IEEE DSC2022, ESORICS2022, CODASPY2024, ARES2024.
+I reviewed papers for ICTAC2020, SECRYPT2021, WPES2022, DSC2022, ESORICS2022, CODASPY2024, ARES2024, CSF2027.
 
 ### Contacts
 [CV](assets/cv2026.pdf)
